@@ -1,9 +1,6 @@
-autopep8 @ file:///opt/conda/conda-bld/autopep8_1639166893812/work
-Bottleneck @ file:///tmp/build/80754af9/bottleneck_1607575130224/work
 Brotli==1.0.9
 brotlipy==0.7.0
 certifi==2021.10.8
-cffi @ file:///opt/conda/conda-bld/cffi_1642701102775/work
 click==8.0.3
 dash==2.2.0
 dash-bootstrap-components==1.0.3
@@ -11,27 +8,9 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-renderer==1.1.2
 dash-table==5.0.0
-Flask @ file:///tmp/build/80754af9/flask_1634118196080/work
 Flask-Compress==1.5.0
-future @ file:///tmp/build/80754af9/future_1607571303524/work
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
-MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1621523467000/work
 mkl-fft==1.3.1
-mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186066731/work
 mkl-service==2.4.0
-numexpr @ file:///tmp/build/80754af9/numexpr_1640689833592/work
-numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1634095651905/work
-packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandas==1.4.1
-plotly @ file:///tmp/build/80754af9/plotly_1626182254919/work
-pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.3
 PyYAML==6.0
-six @ file:///tmp/build/80754af9/six_1605205306277/work
-tenacity @ file:///tmp/build/80754af9/tenacity_1626248292117/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work

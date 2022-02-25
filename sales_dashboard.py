@@ -12,7 +12,7 @@ import dash_bootstrap_components as dbc
 
 ##import dataset
 # https://www.kaggle.com/kyanyoga/sample-sales-data
-df = pd.read_csv('sales_data_sample.csv', encoding='latin-1')
+df = pd.read_csv('https://github.com/WesleyJw/SalesDashboard-Deploy/blob/main/sales_data_sample.csv', encoding='latin-1')
 
 # make a copy of the dataset
 global_df = df.copy()
