@@ -12,7 +12,9 @@ import dash_bootstrap_components as dbc
 
 ##import dataset
 # https://www.kaggle.com/kyanyoga/sample-sales-data
-df = pd.read_csv('https://github.com/WesleyJw/SalesDashboard-Deploy/blob/main/sales_data_sample.csv', encoding='latin-1')
+#df = pd.read_csv('https://github.com/WesleyJw/SalesDashboard-Deploy/blob/main/sales_data_sample.csv', encoding='latin-1')
+df = pd.read_csv('sales_data_sample.csv', encoding='latin-1')
+
 
 # make a copy of the dataset
 global_df = df.copy()
@@ -301,7 +303,7 @@ def update_graph_checklist(tamanho_selecionado):
 )
 def update_map(ano_selecionado):
 
-    title = "Mapa de Vendas nos EUA no ano de {}".format(ano_selecionado)
+    title = "Mapa de Vendas nos EUA: {}".format(ano_selecionado)
 
     df_ = global_df.copy()
     df_ = df_[df_['COUNTRY'] == 'USA']
