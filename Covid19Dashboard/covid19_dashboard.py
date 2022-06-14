@@ -43,7 +43,6 @@ fig.update_layout(
 # ***********************Layout Dash**********************************
 # Layout da aplicacao
 app.layout = dbc.Container(
-    html.H1("Covid 19: Brasil"),
     dbc.Row([
         dbc.Col([
             dcc.Graph(
