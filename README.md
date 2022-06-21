@@ -20,7 +20,7 @@ Para o desenvolvimento do Dashboard sobre a distribuição de casos da **Covid19
 
 Após o tratamento da base de dados, foi construido o dashboard da distribuição de casos novos, casos acumulados, obitos novos e obitos acumulados por estados brasileiros e ao nível do Brasil. A aparência do dashboard é dada abaixo: 
 
-![](imgages/covid19_dash.png)
+![](images/covid19_dash.png)
 
 ##
 
