@@ -25,3 +25,7 @@ Após o tratamento da base de dados, foi construido o dashboard da distribuiçã
 ##
 
 ## Dashboard de Vendas
+
+Este dashboard foi desenvolvido a título de ganhar experiência com a biblioteca *dash* do python. Foram empregados dados públicos de exemplos de uma empresa de vendas dos Estados Unidos da América. A aparência final do Dashboard é apresentada abaixo.
+
+![](images/sales_dash.png)
